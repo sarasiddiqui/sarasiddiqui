@@ -1,5 +1,5 @@
--👋 Hi, I’m @sarasiddiqui! 
--👀 I’m interested in data analytics, business intelligence, and web development!
+-👋 Hi, I’m @sarasiddiqui! <br>
+-👀 I’m interested in data analytics, business intelligence, and web development! <br>
 -📫 You can reach me via email at sarasiddiqui@berkeley.edu!
 
 <!---
